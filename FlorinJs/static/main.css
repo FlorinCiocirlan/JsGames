@@ -1,0 +1,22 @@
+body {
+    width: auto;
+    height: auto;
+    overflow: hidden;
+}
+.p5Canvas {
+    border: 1px solid transparent;
+    border-radius:5px;
+    width: auto;
+
+}
+
+#container {
+    position: relative;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    overflow: hidden;
+    background-color: #60B5FF;
+
+}
