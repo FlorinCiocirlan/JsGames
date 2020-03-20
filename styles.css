@@ -1,0 +1,25 @@
+body {
+    background-image: url("background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+a:link, a:visited {
+    background-color: teal;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+a:hover, a:active {
+  background-color: red;
+}
+
+a {
+    padding: 30px;
+}
